@@ -1,5 +1,11 @@
 # 📊 Análisis Macroeconómico LATAM
 
+
+## 📊 Dashboard Preview
+
+![Dashboard Preview](docs/dashboard_preview.png)
+
+
 ## 🧭 Descripción General
 
 Este proyecto consiste en el desarrollo de un dashboard interactivo enfocado en el análisis macroeconómico de países de Latinoamérica (LATAM), con especial énfasis en la evolución del Producto Bruto Interno (PBI) y el PBI per cápita.
