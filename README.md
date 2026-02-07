@@ -1,8 +1,5 @@
 # 📊 Análisis Macroeconómico LATAM
 
-
-## 📊 Dashboard Preview
-
 ![Dashboard Preview](docs/dashboard_preview.png)
 
 
